@@ -1,8 +1,10 @@
 # Mingalés - Conlang
-![Bandera Marria](banderas/bandera_marria.jpeg)
 
 Es un idioma construido / ficticio o conlang. Su historia está situada en la zona sur de Italia, relacionada con Grecia, Montenegro y regiones italianas.  
-  
+
+![Bandera Marria](banderas/bandera_marria.jpeg)
+**Bandera de Marria**
+
 **Por ahora** utiliza el sistema de escritura alfabetica además de utilizar fonemas conocidos para ser historicamente acertivo con las lenguas en contacto.
 
 **SE ACEPTA CONTRIBUCIÓN** con:

@@ -1,11 +1,9 @@
-El mingalés es un idioma con estructura ya sea SOV (Sujeto Verbo Objeto, ...) dependiendo del contexto de la oración.
+El mingalés es un idioma con estructura ya sea SVO o SOV (Sujeto Verbo Objeto, ...) dependiendo del tipo de oración.
 
 Reglas generales en orden de prioridad:
 - La causa va al final.
 - El objeto va al final.
 - El verbo va al final.
-- El verbo principal es el último.
-- El verbo principal marca el tiempo de la oración.
-- El verbo conjuga su forma y luego su estado (seréce -> seréte -> seréta).
+- El verbo principal es el último y marca el tiempo.
 - Los adjetivos van antes del sustantivo.
 - Los articulos tácitos se asumen plurales (le).

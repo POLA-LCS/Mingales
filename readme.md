@@ -1,5 +1,5 @@
 # Mingalés - Conlang
-[Bandera Marria](banderas/bandera_marria.jpeg)
+![Bandera Marria](banderas/bandera_marria.jpeg)
 
 Es un idioma construido / ficticio o conlang. Su historia está situada en la zona sur de Italia, relacionada con Grecia, Montenegro y regiones italianas.  
   
@@ -44,7 +44,7 @@ El archivo con la [historia](texto/historia_marria.txt) narra el origen del idio
 
 Márria es una región ficticia entre Apulia y Calabria, Italia.
 
-[Mapa Marria](imagenes/mapa_marria.jpeg)
+![Mapa Marria](imagenes/mapa_marria.jpeg)
 Mapa político de Márria.
 
 ## Sistema de escritura

@@ -1,0 +1,48 @@
+Sujetos:
+igo       | yo
+utó       | tú
+bos       | tú (formal)
+loi       | elle
+
+sujeto + na | plural
+así: igóna  | nosotres
+     utóna  | ustedes
+     loína  | elles
+     
+Sustantivos:
+- Myárya  | Márria
+- myangám | mingalés
+- jutál   | grupo destinado / junta
+- gúrpya  | asamblea / discusion
+- pérya   | perro
+- göra    | gorra
+- bicétta | bicicleta
+- lum     | luz (también "lumme")
+- sánna   | manzana (tambien "sama")
+- négyam  | tienda (tambien "negamme")
+- bírba   | verbo / accion
+- dúja    | lujo / agasajo
+- oxo     | ojo
+- möé     | más
+- lamoé   | mucho (lit. "la más")
+
+Verbos:
+- elece   | elegir / decidir
+- comece  | comer
+- moqece  | masticar / triturar
+- porece  | beber
+- pace    | ir / llevar
+- serece  | ser
+- enice   | estar / tener (objeto)
+- erace   | hacer / causar
+- eqace   | quitar / arrancar / arrebatar
+- premuce | comprar / cambiar
+- duxe    | mimar / agasajar
+- ipnace  | dormir
+- biqice  | cerrar / apagar / terminar
+- abice   | abrir / encender / empezar (tambien a'biqice)
+- biabice | abrir y cerrar / reiniciar / volver a empezar (tambien "biqibice", menos común)
+- doqéce  | querer
+
+Adjetivos:
+- dují    | lujoso / cariñoso

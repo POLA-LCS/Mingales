@@ -1,0 +1,26 @@
+Sujetos:
+Igo       | Yo
+Utó       | Tú (informal)
+Bosna     | Usted / Ustedes (formal) 
+Lono      | Él / Ella / Elle
+
+Igóna     | Nosotros / Nosotras
+Utóna     | Ustedes (informal)
+Lonna     | Ellos / Ellas / Elles
+
+Sustantivos:
+- Myárya  | Márria
+- myangám | mingalés
+- jutál   | grupo destinado / junta
+- gúrpya  | asamblea / discusion
+- pérya   | perro
+- göra    | gorra
+- bicétta | bicicleta
+- lum     | luz (también "lumme")
+- sánna   | manzana (tambien "sama")
+- négyam  | tienda (tambien "negamme")
+- bírba   | verbo / accion
+- dúja    | lujo / agasajo
+- oxo     | ojo
+- möé     | más
+- lamoé   | mucho (lit. "la más")

@@ -1,0 +1,17 @@
+Verbos:
+- elece   | elegir / decidir
+- comece  | comer
+- moqece  | masticar / triturar
+- porece  | beber
+- pace    | ir / llevar
+- serece  | ser
+- enice   | estar / tener (objeto)
+- erace   | hacer / causar
+- eqace   | quitar / arrancar / arrebatar
+- premuce | comprar / cambiar
+- duxe    | mimar / agasajar
+- ipnace  | dormir
+- biqice  | cerrar / apagar / terminar
+- abice   | abrir / encender / empezar (tambien a'biqice)
+- biabice | abrir y cerrar / reiniciar / volver a empezar (tambien "biqibice", menos común)
+- doqéce  | querer

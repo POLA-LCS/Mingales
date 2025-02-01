@@ -6,4 +6,4 @@ Reglas generales en orden de prioridad:
 - El verbo va al final.
 - El verbo principal es el último y marca el tiempo.
 - Los adjetivos van antes del sustantivo.
-- Los articulos tácitos se asumen plurales (le).
+- Los articulos tácitos se asumen plurales (le) si no hay un contexto previo.

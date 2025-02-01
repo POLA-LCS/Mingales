@@ -5,22 +5,22 @@ Es un idioma construido / ficticio o conlang. Su historia está situada en la zo
 ![Bandera Marria](banderas/bandera_marria.jpeg)
 **Bandera de Marria**
 
-**Por ahora** utiliza el sistema de escritura alfabetica además de utilizar fonemas conocidos para ser historicamente acertivo con las lenguas en contacto.
+**Por ahora** utiliza el sistema de escritura alfabetica además de fonemas conocidos para ser historicamente acertivo con las lenguas en contacto.
 
 **SE ACEPTA CONTRIBUCIÓN** con:
-- Vocabulario : origen fonético, pronunciación, variaciones.
-- Correcciones : desarrollo del cambio y porqué.
-- Gramática : utilidad, que casos cubre.
-- Mejora : qué, porqué.
-- Particulas : origen, uso, reglas. 
+- **Vocabulario:** origen fonético, pronunciación, variaciones.
+- **Correcciones:** desarrollo del cambio y porqué.
+- **Gramática:** utilidad, que casos cubre.
+- **Mejora:** qué, porqué.
+- **Particulas:** origen, uso, reglas. 
 
-## Inspiración y porqué
+## Inspiración y motivación
 
-Es un proyecto de un idioma simple inspirado por el idioma japonés, su método de conjugar los verbos y el uso de particulas que marquen algunos aspectos de la oración.  
+Es un proyecto simple de una lengüa inspirada por el idioma japonés, su método de conjugar verbos y uso de particulas que marcan aspectos de la oración.  
   
-El uso de sonidos familiares del italiano hace esta lengua fácil de aprender para los idiomas derivados de lenguas romances como el portugués, español, francés y demás.  
+El uso de fonémas parecidos a los del italiano hace a esta lengua fácil de aprender para los hablantes de lenguas romances como el portugués, español, francés y demás.  
   
-El porqué de este proyecto es para poner en practica lo que voy aprendiendo de como funcionan los diferentes idiomas y aplicar este conocimiento en modo de juego o experimento. Ver los errores que voy cometiendo a medida que aprendo e ir modificando el idioma _sobre la marcha_.  
+La motivación de este proyecto es poner en practica mis conocimientos acerca de idiomas sin ser lingüista como un juego o experimento. Ver los errores que voy cometiendo a medida que aprendo e ir modificando el idioma _sobre la marcha_.  
   
 ## Sonidos
 
@@ -47,7 +47,7 @@ El archivo con la [historia](texto/historia_marria.txt) narra el origen del idio
 Márria es una región ficticia entre Apulia y Calabria, Italia.
 
 ![Mapa Marria](imagenes/mapa_marria.jpeg)
-Mapa político de Márria.
+**Mapa político de Márria**
 
 ## Sistema de escritura
 
